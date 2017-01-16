@@ -210,8 +210,6 @@
 <p>
     ステータスラインには現在のバッファの情報がいくつか含まれています。
     それらは順に:
-    The status line contains several fields that provide information about the
-    state of the current buffer. These are, in order:
 </p>
 
 <ul>
